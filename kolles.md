@@ -39,8 +39,8 @@
 1:     CORTI Flavio (S), BREIDENSTEIN Léo, MHAMDI Wajdi</br>
 2:     GOMPEL Ingrid, MAGNE Nicolas, RINGOOT Axel</br>
 3:     MAIRE Antoine, KA Issa, AL DAOUK Moustapha</br>
-4:     KRASOVSKAYA Anna, PERET Justin, SALOUM Gwendal</br>
-5:     DRISSI Rayan, LEGOUPIL Antoine, ZHOU Jérémy</br>
+4:     DRISSI Rayan, PERET Justin, SALOUM Gwendal</br>
+5:     LEGOUPIL Antoine, ZHOU Jérémy</br>
 6:     LI Victor, MATEI Nicolas, TURCAN François</br>
 7:     GODARD Evann, SANCHEZ Maël, SKROBALA Maxime</br>
 8(S):  ALTIERI Aubin, DESPORTES Maelis, PANABIÈRES Hector</br>
@@ -48,7 +48,7 @@
 10(S): GUYONVARCH Thomas, SALLIN Corentin, SIAHAAN-GENSOLLEN Rémy</br>
 11(S): ATTOU Riad, BERTOT Alexandre, BOISSIERE Maxime</br>
 12(S): HABAR Maxence, MELAN David, SAHNOUN Hassan</br>
-13(S): BOURGEOIS Alex, CHOQUET Marie</br>
+13(S): BOURGEOIS Alex, CHOQUET Marie, KRASOVSKAYA Anna</br>
 
 ## Contacts : </br>
 ### Anglais:</br>
